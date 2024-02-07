@@ -1,7 +1,7 @@
 +++
 title = "Protocol Buffers"
 weight = 5
-toc_hide = "true"
+toc_hide = "true"jh
 description = "Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data."
 type = "docs"
 no_list = "true"
